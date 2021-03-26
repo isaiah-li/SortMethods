@@ -1,0 +1,8 @@
+F:/Project/vs/C/SortMethods/build/CMakeFiles/ALL_BUILD.dir
+F:/Project/vs/C/SortMethods/build/CMakeFiles/ZERO_CHECK.dir
+F:/Project/vs/C/SortMethods/build/Bubble/CMakeFiles/Bubble.dir
+F:/Project/vs/C/SortMethods/build/Bubble/CMakeFiles/ALL_BUILD.dir
+F:/Project/vs/C/SortMethods/build/Selection/CMakeFiles/Selection.dir
+F:/Project/vs/C/SortMethods/build/Selection/CMakeFiles/ALL_BUILD.dir
+F:/Project/vs/C/SortMethods/build/Insertion/CMakeFiles/Insertion.dir
+F:/Project/vs/C/SortMethods/build/Insertion/CMakeFiles/ALL_BUILD.dir

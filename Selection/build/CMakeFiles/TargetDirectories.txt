@@ -1,3 +1,0 @@
-F:/Project/vs/C/SortMethods/Selection/build/CMakeFiles/Selection.dir
-F:/Project/vs/C/SortMethods/Selection/build/CMakeFiles/ALL_BUILD.dir
-F:/Project/vs/C/SortMethods/Selection/build/CMakeFiles/ZERO_CHECK.dir

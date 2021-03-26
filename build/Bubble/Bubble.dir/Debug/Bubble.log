@@ -1,0 +1,4 @@
+﻿  Building Custom Rule F:/Project/vs/C/SortMethods/Bubble/CMakeLists.txt
+  main.c
+F:\Project\vs\C\SortMethods\Bubble\main.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Bubble.vcxproj -> F:\Project\vs\C\SortMethods\build\Bubble\Debug\Bubble.exe
