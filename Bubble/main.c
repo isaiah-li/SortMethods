@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+//小建议：冒泡排序的循环中可以加个变量flag用true,
+//false作为判断本趟冒泡是否交换的标志，若遍历一遍后未发生交换，
+//说明表已经提前有序，不必继续排序了
 void Bubble(int arr[], int n)
 {
 	int tmp;
