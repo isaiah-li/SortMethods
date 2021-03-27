@@ -6,3 +6,5 @@ F:/Project/vs/C/SortMethods/build/Selection/CMakeFiles/Selection.dir
 F:/Project/vs/C/SortMethods/build/Selection/CMakeFiles/ALL_BUILD.dir
 F:/Project/vs/C/SortMethods/build/Insertion/CMakeFiles/Insertion.dir
 F:/Project/vs/C/SortMethods/build/Insertion/CMakeFiles/ALL_BUILD.dir
+F:/Project/vs/C/SortMethods/build/Heap/CMakeFiles/Heap.dir
+F:/Project/vs/C/SortMethods/build/Heap/CMakeFiles/ALL_BUILD.dir
