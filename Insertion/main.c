@@ -1,5 +1,5 @@
 #include <stdio.h>
-//http://www.tudou.com/home/tpof314
+
 
 void Insert(int arr[], int n)
 {
@@ -36,5 +36,5 @@ int main()
 		printf("%d\n", arr[i]);
 
 	}
-
+	return 0;
 }
